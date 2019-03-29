@@ -8,14 +8,23 @@ Data Format
 The SPD dataset is in a .csv file format (named spd-dataset_01_ids.csv) consisting of spam (0) and non-spam (1) accounts’ identification number. We also provide a basic python script (in Jupyter Notebook) that will enable collection of the data using Twitter’s API. The following fundamental features (which could be used to define other features, please see the research article below for the full features) are included in the script:
 
 •	UserID: numeric identifier of the account user
+
 •	ScreenName: screen-name of the user
+
 •	AccountCreated: account creation time (used together with TweetCreatedAt to define AccountAge Feature)
+
 •	TweetCreatedAt: collection date of the most recent tweet from an account
+
 •	Description: a brief textual description provided by the account user
+
 •	TweetFavouriteCount: number of likes from the user
+
 •	FollowersCount: number of other users following the account owner
+
 •	FriendsCount: number of users the account owner is following
+
 •	StatusesCount: total number of activities e.g. tweeting, RT, etc.
+
 •	Tweets: sample tweets produced by the account
 
 Publications using the dataset
