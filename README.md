@@ -23,6 +23,7 @@ The SPD dataset is in a .csv file format (named spd-dataset_01_ids.csv) consisti
 * Inuwa-Dutse, I., 2018, April. Modelling Formation of Online Temporal Communities. In Companion of the The Web Conference 2018 on The Web Conference 2018 (pp. 867-871). International World Wide Web Conferences Steering Committee.
 
 **Citing Articles**
+* Washha, M., Qaroush, A., Mezghani, M. and Sedes, F., 2019. Unsupervised Collective-based Framework for Dynamic Retraining of Supervised Real-Time Spam Tweets Detection Model. Expert Systems with Applications.
 * Tajalizadeh, H. and Boostani, R., 2019. A Novel Stream Clustering Framework for Spam Detection in Twitter. IEEE Transactions on Computational Social Systems.
 * Lian, Y., Dong, X., Chi, Y., Tang, X. and Liu, Y., 2019. An Internet Water Army Detection Supernetwork Model. IEEE Access.
 * Pandey, A.C. and Rajpoot, D.S., 2019. Spam review detection using spiral cuckoo search clustering method. Evolutionary Intelligence, pp.1-18.
