@@ -22,14 +22,12 @@ The SPD dataset is in a .csv file format (named spd-dataset_01_ids.csv) consisti
 * Inuwa-Dutse, I., Liptrott, M. and Korkontzelos, I., 2018. Detection of spam-posting accounts on Twitter. Neurocomputing, 315, pp.496-511.
 * Inuwa-Dutse, I., 2018, April. Modelling Formation of Online Temporal Communities. In Companion of the The Web Conference 2018 on The Web Conference 2018 (pp. 867-871). International World Wide Web Conferences Steering Committee.
 
+**SPD filter**
+* A pickled RF model is too large to be added, hence is made available [here](https://www.dropbox.com/s/eohxg2yxt46z4f5/trained_rf.pkl?dl=0)
+
 **Citing Articles**
-* Washha, M., Qaroush, A., Mezghani, M. and Sedes, F., 2019. Unsupervised Collective-based Framework for Dynamic Retraining of Supervised Real-Time Spam Tweets Detection Model. Expert Systems with Applications.
-* Tajalizadeh, H. and Boostani, R., 2019. A Novel Stream Clustering Framework for Spam Detection in Twitter. IEEE Transactions on Computational Social Systems.
-* Lian, Y., Dong, X., Chi, Y., Tang, X. and Liu, Y., 2019. An Internet Water Army Detection Supernetwork Model. IEEE Access.
-* Pandey, A.C. and Rajpoot, D.S., 2019. Spam review detection using spiral cuckoo search clustering method. Evolutionary Intelligence, pp.1-18.
-* R, Vinayakumar & Alazab, Mamoun & Jolfaei, Alireza & Kp, Soman & Poornachandran, Prabaharan. (2018). Ransomware Triage Using Deep Learning: Twitter as a Case Study.
-* Inuwa-Dutse, Isa & Bello, Bello & Korkontzelos, Ioannis. (2018). Lexical analysis of automated accounts on Twitter.
-* Inuwa-Dutse, I., Bello, B.S. and Korkontzelos, I., 2018. THE EFFECT OF ENGAGEMENT INTENSITY AND LEXICAL RICHNESS IN IDENTIFYING BOT ACCOUNTS ON TWITTER. IADIS International Journal on WWW/Internet, 16(2).
+* More details available [here](https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13388536627378846215)
+
 
 **Citation Format** Please cite the work (if any part of the work is relevant and utilised in your research) as follow:
 * Inuwa-Dutse, I., Liptrott, M. and Korkontzelos, I., 2018. Detection of spam-posting accounts on Twitter. Neurocomputing, 315, pp.496-511.
