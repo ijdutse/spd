@@ -18,11 +18,8 @@ The SPD dataset is in a .csv file format (named spd-dataset_01_ids.csv) consisti
  - StatusesCount: total number of activities e.g. tweeting, RT, etc.
  - Tweets: sample tweets produced by the account
 
-**Publications using the dataset**
-* Inuwa-Dutse, I., Liptrott, M. and Korkontzelos, I., 2018. Detection of spam-posting accounts on Twitter. Neurocomputing, 315, pp.496-511.
-* Inuwa-Dutse, I., 2018, April. Modelling Formation of Online Temporal Communities. In Companion of the The Web Conference 2018 on The Web Conference 2018 (pp. 867-871). International World Wide Web Conferences Steering Committee.
 
-**SPD filter**
+**The SPD filter**
 * A pickled RF model is too large to be added, hence is made available [here](https://www.dropbox.com/s/eohxg2yxt46z4f5/trained_rf.pkl?dl=0)
 
 **Citing Articles**
